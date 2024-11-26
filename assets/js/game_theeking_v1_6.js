@@ -65,6 +65,6 @@ window.addEventListener("load", (event) => {
     
     if (gameName!= "" && gameLoad) {
         console.log("LoadGame", gameName);
-        gameFrame.src= `https://ubg98.github.io/${gameName}/`;
+        gameFrame.src= `https://theeking2.github.io/${gameName}/`;
     }    
 });
